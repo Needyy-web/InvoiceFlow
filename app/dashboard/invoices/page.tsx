@@ -1,5 +1,5 @@
 export default function Page() {
     return (
-        <div>Customers</div>
+        <div>Invoices</div>
     )
 }
