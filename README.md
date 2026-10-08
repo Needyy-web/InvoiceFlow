@@ -26,7 +26,6 @@ The application allows users to manage invoices and customers, view dashboard st
 
 ![Login](./screenshots/login.png)
 
-
 ## Features
 
 * Authentication with NextAuth.js
@@ -67,8 +66,8 @@ Password: 123456
 Clone the repository:
 
 ```bash
-git clone https://github.com/Needyy-web/NextJs.git
-cd NextJs
+git clone https://github.com/Needyy-web/InvoiceFlow.git
+cd InvoiceFlow
 ```
 
 Install dependencies:
@@ -90,11 +89,7 @@ Start the development server:
 pnpm dev
 ```
 
-Open the application:
-
-```text
-http://localhost:3000
-```
+Open **http://localhost:3000** in your browser.
 
 ## Database
 
@@ -107,9 +102,7 @@ The application uses PostgreSQL to store:
 
 The project includes a seed route for populating the database with demo data:
 
-```text
-http://localhost:3000/api/seed
-```
+**http://localhost:3000/api/seed**
 
 ## Project Structure
 
@@ -130,4 +123,4 @@ proxy.ts
 
 ## Repository
 
-**[GitHub — Needyy-web/NextJs](https://github.com/Needyy-web/NextJs)**
+**[GitHub — Needyy-web/InvoiceFlow](https://github.com/Needyy-web/InvoiceFlow)**
