@@ -6,7 +6,7 @@ The application allows users to manage invoices and customers, view dashboard st
 
 ## Live Demo
 
-**[Invoice Dashboard](https://next-js-needy1.vercel.app)**
+**[Invoice Dashboard](https://invoiceflow.layero.app/)**
 
 ## Screenshots
 
